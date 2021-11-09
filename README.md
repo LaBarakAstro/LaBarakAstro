@@ -7,4 +7,4 @@ Websites bring me pain, I will only make one if I need too.
 
 
 ## Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaBarakAstro&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaBarakAstro&langs_count=5&layout=compact)
